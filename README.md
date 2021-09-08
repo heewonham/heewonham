@@ -1,16 +1,18 @@
 ### ✨Welcome! My space ✨</br>
 </br>
-안녕하세요. 반갑습니다.🐣</br>
-🔥 화이팅 ~!🔥</br></br>
+Hi My name is heewon!🐣</br></br>
+- 🌈 I’m currently working on Allcake proeject.</br>
+- 🌱 I’m currently learning django, spring, javascript.</br>
+- 📫 How to reach me: huiwonham6@gmail.com</br></br>
+    
+🔥 Fighting! ~!🔥</br></br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonham&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-</br></br>
-<!-- [![heewon's github stats](https://github-readme-stats.vercel.app/api?username=heewonham)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonham&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang) -->
+[![heewon's github stats](https://github-readme-stats.vercel.app/api?username=heewonham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **heewonham/heewonham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://img.shields.io/badge/django-#092E20?style=flat-square&logo=Django&logoColor=white"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
