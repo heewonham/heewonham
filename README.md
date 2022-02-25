@@ -1,8 +1,7 @@
 ### ✨Welcome! My space ✨</br>
 </br>
 Hi My name is heewon!🐣</br></br>
-- 🌈 I’m currently working on Allcake proeject.</br>
-- 🌱 I’m currently learning django, spring, javascript.</br>
+- 🌱 I’m currently learning spring, JPA.</br>
 - 📫 How to reach me: huiwonham6@gmail.com</br></br>
     
 🔥 Fighting! ~!🔥</br></br>
